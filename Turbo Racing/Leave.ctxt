@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Leave
+comment0.text=\r\n\ This\ class\ allows\ the\ player\ to\ go\ back\ to\ the\ menu\ screen\ from\ the\ instruction\ screen\r\n\ \r\n\ @author\ Monis\ \r\n
+comment1.params=
+comment1.target=Leave()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

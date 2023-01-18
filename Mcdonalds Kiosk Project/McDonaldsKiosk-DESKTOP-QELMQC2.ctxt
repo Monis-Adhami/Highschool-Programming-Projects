@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=McDonaldsKiosk
+comment0.text=\r\n\ This\ is\ a\ program\ simulation\ of\ a\ McDonalds\ Kiosk,\ where\ the\ user\ can\ essentially\ order\ \r\n\ anything\ on\ the\ menu\ given.\ The\ user\ is\ able\ to\ order\ a\ meal\ multiple\ times.\r\n\ He\ will\ then\ be\ given\ the\ total\ of\ his\ purchase\ and\ even\r\n\ be\ asked\ for\ a\ payment\ method.\r\n\ @author\ Monis\ Adhami\ -\ 680676\r\n\ @version\ 11/11/2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
